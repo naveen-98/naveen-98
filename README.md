@@ -4,13 +4,15 @@
 ![Coding And Linux Lover](https://pbs.twimg.com/profile_banners/3089536357/1524218534/1080x360)
 
 I'm Naveen Wijesinghe from Sri Lanka, I am a 3rd-year student currently studying for a degree in Networking and Mobile Computing. I'm especially interested in Cyber Security - Networking - Hacking. 
-
 <img width="55%" align="right" alt="Github" src="https://cdni.iconscout.com/illustration/premium/thumb/programming-skills-1946874-1649524.png" />
 <br>
   
 - 🔭 I’m currently working on Hacklogicx 
-- 🌱 I’m currently learning RedHat, R, Ruby 
-- 👯 I’m looking to collaborate on Cyber Security Project 
+  
+- 🌱 I’m currently learning RedHat, R, Ruby
+  
+- 👯 I’m looking to collaborate on Cyber Security Project
+  
 - 💬 Ask me about Linux, Cyber security, Bash 
   
 <h3 align="left">Connect with me:</h3>
