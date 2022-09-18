@@ -23,6 +23,7 @@ I'm Naveen Wijesinghe from Sri Lanka, I am a 3rd-year student currently studying
 <a href="https://instagram.com/iam_naviya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_naviya/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCQT5cNh5d7hc69nbCCIPmwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucqt5cnh5d7hc69nbccipmwa/featured" height="30" width="40" /></a>
 </p>
+              
   
 <p align="left"> <a href="https://twitter.com/imNaviya" target="blank"><img src="https://img.shields.io/twitter/follow/imNaviya?logo=twitter&style=for-the-badge" alt="imNaviya" /></a> </p>
 
