@@ -1,7 +1,7 @@
 <h1> Hello Guys < Developers/ ><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
   
 #### Coding And Linux Lover
-![Coding And Linux Lover](https://pbs.twimg.com/profile_banners/3089536357/1524218534/1080x360)
+![Coding And Linux Lover](https://user-images.githubusercontent.com/55675843/213411949-44524917-63d6-4aeb-b4a0-2bfe643c9c9a.png)
 
 I'm Naveen Wijesinghe from Sri Lanka, I am a 3rd-year student currently studying for a degree in Networking and Mobile Computing. I'm especially interested in Cyber Security - Networking - Hacking. 
 <img width="55%" align="right" alt="Github" src="https://cdni.iconscout.com/illustration/premium/thumb/programming-skills-1946874-1649524.png" />
@@ -46,5 +46,6 @@ I'm Naveen Wijesinghe from Sri Lanka, I am a 3rd-year student currently studying
               
 
 <br>
-  
+
+
 
