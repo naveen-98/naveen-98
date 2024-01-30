@@ -2,9 +2,10 @@
   
 #### Coding And Linux Lover
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-98&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-98" /> </p>
+
 ![Coding And Linux Lover](https://user-images.githubusercontent.com/55675843/213411949-44524917-63d6-4aeb-b4a0-2bfe643c9c9a.png)
 
-I'm Naveen Wijesinghe from Sri Lanka, I am a 3rd-year student currently studying for a degree in Networking and Mobile Computing. I'm especially interested in Cyber Security - Networking - Hacking. 
+I'm Naveen Wijesinghe from Sri Lanka, I am a 4th-year student (Final Year) currently studying for a degree in Networking and Mobile Computing. I'm especially interested in Cyber Security - Networking - Hacking. 
 <img width="55%" align="right" alt="Github" src="https://cdni.iconscout.com/illustration/premium/thumb/programming-skills-1946874-1649524.png" />
 <br>
   
