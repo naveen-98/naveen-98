@@ -8,7 +8,7 @@ I'm Naveen Wijesinghe from Sri Lanka, I am a 4th-year student (Final Year) curre
 <img width="55%" align="right" alt="Github" src="https://cdni.iconscout.com/illustration/premium/thumb/programming-skills-1946874-1649524.png" />
 <br>
   
-- 🔭 I’m currently working on Hacklogicx 
+- 🔭 I’m currently working on Prolab R 
   
 - 🌱 I’m currently learning RedHat, R, Ruby
   
